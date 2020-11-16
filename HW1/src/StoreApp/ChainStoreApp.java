@@ -5,8 +5,6 @@ import ChainStore.StoreQuery;
 
 /**
  * ChainStoreApp class is the class with the main method.
- * @author Onur Cihangir 250201049
- * @author Uğur Baran Özer 250201034
  */
 public class ChainStoreApp {
 

@@ -4,8 +4,6 @@ import java.io.IOException;
 
 /**
  * StoreQuery class has methods to answer homework questions.
- * @author Onur Cihangir 250201049
- * @author Uğur Baran Özer 250201034
  */
 public class StoreQuery {
 	private ItemTransaction[] itemTransactions;

@@ -6,8 +6,6 @@ import FileAccess.FileIO;
 
 /**
  * AnnualSale class converts String array to Object array
- * @author Onur Cihangir 250201049
- * @author Uğur Baran Özer 250201034
  */
 public class AnnualSale {
 	private FileIO file;

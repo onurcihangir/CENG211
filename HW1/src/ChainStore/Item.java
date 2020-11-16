@@ -2,8 +2,6 @@ package ChainStore;
 
 /**
  * Item object class.
- * @author Onur Cihangir 250201049
- * @author Uğur Baran Özer 250201034
  */
 public class Item {
 	private String name;

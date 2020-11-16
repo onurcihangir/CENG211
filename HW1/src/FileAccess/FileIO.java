@@ -8,8 +8,6 @@ import java.util.StringTokenizer;
 
 /**
  * FileIO class' job is to read files.
- * @author Onur Cihangir 250201049
- * @author Uğur Baran Özer 250201034
  */
 public class FileIO {
 	
